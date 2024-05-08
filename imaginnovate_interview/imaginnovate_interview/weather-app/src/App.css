@@ -1,0 +1,44 @@
+/* Basic styling for the app */
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.weather-forecast {
+  margin-top: 20px;
+}
+
+
+
+element.style {
+}
+table thead tr th{
+  background: #f22f0c;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-color: rgb(31, 30, 29);
+}
+table thead tr th{
+  text-align: center;
+  align-items: center;
+}
+
+table, th, td {
+  border: 1px solid #f13030;
+  
+ 
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-color: rgb(19, 19, 18);
+
+}
+
+th {
+  background-color: #f13030;
+}
